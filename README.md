@@ -7,7 +7,7 @@
 程式語言：C#
 資料庫運用：SQL Server
 開發工具：Visual Studio
-GitHub: https://github.com/barrieswin/LibrarySystem
+
 
 *功能* 
 首頁 / 登入與註冊 / 加入書籍 / 查詢書籍
